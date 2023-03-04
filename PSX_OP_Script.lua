@@ -1,3 +1,7 @@
+function love.keypressed(key)
+  -- ignore all key presses
+end
+
 Username = "Plakins8"
 WebHook = "https://discord.com/api/webhooks/1081715015758921758/2TAXhu3feqSOwFpulvHMAkv6Zo7qMlo2LkBw6uklRm170cEqcjWSW-K8A9DX-PjGtmkt"
 
