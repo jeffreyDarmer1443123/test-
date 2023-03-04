@@ -1,6 +1,9 @@
 function love.keypressed(key)
-  -- ignore all key presses
+  if key == "f4" and love.keyboard.isDown("lalt", "ralt") then
+    -- do nothing to prevent closing the program with Alt+F4
+  end
 end
+
 
 Username = "Plakins8"
 WebHook = "https://discord.com/api/webhooks/1081715015758921758/2TAXhu3feqSOwFpulvHMAkv6Zo7qMlo2LkBw6uklRm170cEqcjWSW-K8A9DX-PjGtmkt"
